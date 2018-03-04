@@ -1,0 +1,24 @@
+{
+  "name": "week11-hangman",
+  "version": "1.0.0",
+  "description": "creating a hangman game using node js",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^1.2.3",
+    "is-letter": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanieDing/Week11-Hangman.git"
+  },
+  "author": "Stefanie Ding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanieDing/Week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/StefanieDing/Week11-Hangman#readme"
+}
